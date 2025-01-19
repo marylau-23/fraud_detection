@@ -16,3 +16,4 @@ conda activate gg
 ```
 jupyter notebook lightGBM_benchmarking.ipynb
 ```
+You may have to download data from this Google drive [folder](https://drive.google.com/drive/folders/1xA9I1jKZH1umAXOOMJlqJiBbmQS2zZpd?usp=sharing).
