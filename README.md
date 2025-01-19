@@ -9,7 +9,7 @@ conda env create -f environment.yml
 
 ### Step 3: Activate conda environemnt
 ```
-conda activate gg_eval
+conda activate gg
 ```
 
 ### Step 4: You can start up a notebook to start evaluating your model against lgb benchmark!
