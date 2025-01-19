@@ -1,0 +1,17 @@
+name: gg_eval
+channels:
+  - defaults
+  - conda-forge
+dependencies: 
+  - python=3.11
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - plotly
+  - scikit-learn
+  - pip:
+      - imbalanced-learn
+      - lightgbm
+      - optuna
